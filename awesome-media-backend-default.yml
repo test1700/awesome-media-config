@@ -9,4 +9,4 @@ spring:
     console:
       enabled: true
 
-name: jhkim-default
+name: jhkim-default-edited
